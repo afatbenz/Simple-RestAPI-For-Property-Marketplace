@@ -1,0 +1,88 @@
+{
+    "offers":[
+        {
+            "id": 1,
+            "title": "Rumah Tipe 68 Jl. Petukangan Jakarta Selatan",
+            "authorID": 3,
+            "statusID": 1,
+            "typeID": 2,
+            "provinceID": 31,
+            "room": 3,
+            "bathroom": 1,
+            "area": 250,
+            "area_unit": "m2",
+            "building_size": 300,
+            "full_furnished": true,
+            "garage": true,
+            "carpot": true,
+            "price": 800,
+            "price_unit": "juta",
+            "image":[
+                {
+                    "sliderID": 1,
+                    "sliderImg": "https://picture.rumah123.com/r123-images/750x420-crop/customer/43648/2022-10-06-13-27-55-c6758032-8d8a-4f25-b63f-84e26f5f5733.jpg"
+                },
+                {
+                    "sliderID": 2,
+                    "sliderImg": "https://hrpro.id/wp-content/uploads/2018/01/rumah-dijual-jogja.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Rumah Tipe 36 Jl. Cengkareng Barat, Jakarta Barat",
+            "authorID": 2,
+            "statusID": 2,
+            "typeID": 2,
+            "provinceID": 31,
+            "room": 2,
+            "bathroom": 1,
+            "area": 70,
+            "area_unit": "m2",
+            "building_size": 90,
+            "full_furnished": true,
+            "garage": true,
+            "carpot": true,
+            "price": 800,
+            "price_unit": "juta",
+            "image":[
+                {
+                    "sliderID": 1,
+                    "sliderImg": "https://picture.rumah123.com/r123-images/750x420-crop/customer/43648/2022-10-06-13-27-55-c6758032-8d8a-4f25-b63f-84e26f5f5733.jpg"
+                },
+                {
+                    "sliderID": 2,
+                    "sliderImg": "https://hrpro.id/wp-content/uploads/2018/01/rumah-dijual-jogja.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Rumah Tipe 86 Jl. Kaliurang Yogyakarta",
+            "authorID": 2,
+            "statusID": 1,
+            "typeID": 1,
+            "provinceID": 34,
+            "room": 2,
+            "bathroom": 1,
+            "area": 70,
+            "area_unit": "m2",
+            "building_size": 90,
+            "full_furnished": true,
+            "garage": true,
+            "carpot": true,
+            "price": 800,
+            "price_unit": "juta",
+            "image":[
+                {
+                    "sliderID": 1,
+                    "sliderImg": "https://picture.rumah123.com/r123-images/750x420-crop/customer/43648/2022-10-06-13-27-55-c6758032-8d8a-4f25-b63f-84e26f5f5733.jpg"
+                },
+                {
+                    "sliderID": 2,
+                    "sliderImg": "https://hrpro.id/wp-content/uploads/2018/01/rumah-dijual-jogja.jpg"
+                }
+            ]
+        }
+    ]
+}

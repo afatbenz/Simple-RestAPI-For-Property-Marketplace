@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Super Admin",
+        "status": "SuperUser",
+        "profileImg": "superadmin.jpg",
+        "last_online": "2022-18-10 00:50:00"
+    },
+    {
+        "id": 2,
+        "name": "Mafatichul Fuadi",
+        "status": "Landlord",
+        "profileImg": "MafatichulFuadi.jpg",
+        "last_online": "2022-18-10 01:50:00"
+    },
+    {
+        "id": 3,
+        "name": "Shahrul M",
+        "status": "Landlord",
+        "profileImg": "shahrul.jpg",
+        "last_online": "2022-18-10 01:20:00"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "propertyType": [
+        {
+            "id": 1,
+            "label": "House"
+        },
+        {
+            "id": 2,
+            "label": "Townhouse"
+        },
+        {
+            "id": 3,
+            "label": "Apartment"
+        },
+        {
+            "id": 4,
+            "label": "Room"
+        }
+    ],
+    "searchStatus": [
+        {
+            "id": 1,
+            "label": "Rent"
+        },
+        {
+            "id": 2,
+            "label": "Buy"
+        },
+        {
+            "id": 3,
+            "label": "Auction"
+        }
+    ]
+}
